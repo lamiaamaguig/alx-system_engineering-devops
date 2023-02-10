@@ -1,1 +1,1 @@
-chmod -R ugo+x
+#!/bin/bash
